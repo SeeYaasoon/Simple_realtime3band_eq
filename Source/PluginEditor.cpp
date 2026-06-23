@@ -264,3 +264,4 @@ void SimpleRealtimeEQAudioProcessorEditor::setupLabel (juce::Label& label, const
 
     addAndMakeVisible (label);
 }
+// GitHub test
